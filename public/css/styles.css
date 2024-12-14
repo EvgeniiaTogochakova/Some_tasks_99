@@ -1,0 +1,19 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+    background-color: teal;
+}
+.welcome{
+    margin-top: 20px;
+    padding:20px;
+    background-color: white;
+    color:teal;
+    
+    .greeting{
+        font-size: 20px;
+        text-align: center;
+    }
+}
